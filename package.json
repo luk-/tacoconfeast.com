@@ -14,7 +14,8 @@
   },
   "domains": [
     "www.tacoconfeast.com",
-    "tacoconfeast.com"
+    "tacoconfeast.com",
+    "brooklyn.tacoconf.com"
   ],
   "subdomain": "tacoconfeast",
   "engines": {
