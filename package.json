@@ -4,9 +4,20 @@
   "description": "TacoConf East Website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": "",
   "author": "Luke Arduini <luke.arduini@me.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "0.5.3"
+  },
+  "domains": [
+    "www.tacoconfeast.com",
+    "tacoconfeast.com"
+  ],
+  "subdomain": "tacoconfeast",
+  "engines": {
+    "node": "0.8.x"
+  }
 }
