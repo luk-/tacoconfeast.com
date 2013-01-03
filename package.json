@@ -1,6 +1,6 @@
 {
   "name": "tacoconfeast.com",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "TacoConf East Website",
   "main": "index.js",
   "scripts": {
